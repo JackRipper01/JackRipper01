@@ -71,10 +71,10 @@ Add your project links and descriptions below this comment.
 <!-- Replace 'your-github-username' with your actual GitHub username in the URLs below -->
 <!-- You can customize the appearance of these stats - check out https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Optional: Add links to other profiles like LinkedIn -->
