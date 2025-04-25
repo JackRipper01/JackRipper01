@@ -13,7 +13,7 @@
 
 📫 You can reach me via:
 
-(Primary) Telegram: @JackRipper01
+(Primary) Telegram: https://t.me/Jackripper01
 
 Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.matcom.uh.cu**.
 
