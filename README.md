@@ -11,10 +11,8 @@
 
 🎓 I hold a Bachelor's degree in Computer Science from the Faculty of Mathematics and Computing (MatCom) at the **University of Havana**.
 
-📫 You can reach via:
-
+📫 You can reach me via:
 (Primary) Telegram: @JackRipper01
-
 Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.matcom.uh.cu**.
 
 
