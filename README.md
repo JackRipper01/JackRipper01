@@ -15,7 +15,7 @@ Telegram: https://t.me/Jackripper01
 
 Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.matcom.uh.cu**.
 
-🎓 I hold a Bachelor's degree in Computer Science from the Faculty of Mathematics and Computing (MatCom) at the **University of Havana**.
+🎓 I hold a Bachelor's degree in Computer Science from the Faculty of Mathematics and Computer Science (MatCom) at the **University of Havana**.
 
 🌱 I'm passionate about tackling challenging problems and continuously learning new technologies. My current focus areas include AI (especially Large Language Models), full-stack development, software development and exploring game development engines.
 
@@ -23,17 +23,6 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 
 <!-- Optional: Add a fun GIF here if you like! -->
 <!-- Example: <img src="YOUR_GIF_URL_HERE" alt="Coding GIF" width="300px" /> -->
-
-<h3 align="left">💡 Core Expertise</h3>
-
-<p>My academic background and project work have provided me with strong expertise in the following areas:</p>
-
-- **Artificial Intelligence & LLMs:**
-  - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering`
-- **Software Development:**
-  - `Backend Development (Python/Django, C#)` `Full-Stack Principles` `Object-Oriented Programming (OOP)` `Algorithm Design`
-- **Game Development Concepts:**
-  - `Game Engines (Unity, Godot)` `Simulation Logic` `State Management`
 
 <h3 align="left">🛠️ My Tech Stack</h3>
 <p>I am proficient with a variety of technologies and tools for development. Here are some of the key ones I work with:</p>
@@ -104,6 +93,18 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   </tr>
 </table>
 
+<h3 align="left">💡 Core Expertise</h3>
+
+<p>My academic background and project work have provided me with strong expertise in the following areas:</p>
+
+- **Artificial Intelligence & LLMs:**
+  - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering`
+- **Software Development:**
+  - `Backend Development (Python/Django, C#)` `Full-Stack Principles` `Object-Oriented Programming (OOP)` `Algorithm Design`
+- **Game Development Concepts:**
+  - `Game Engines (Unity, Godot)` `Simulation Logic` `State Management`
+
+
 <h3 align="left">🚀 Featured Project: Dynamic World Storytelling with LLM Agents</h3>
 
 <p>
@@ -119,15 +120,24 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </ul>
 <p><em>(This project is pinned below! Feel free to explore the repository for a deeper dive.)</em></p>
 
-<h3 align="left">📊 My GitHub Stats</h3>
+<h3 align="left">📊 My GitHub Stats & Activity</h3>
 
-<!-- Replace 'your-github-username' with your actual GitHub username in the URLs below -->
-<!-- You can customize the appearance of these stats - check out https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="Franco's GitHub Stats" />
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <!-- Contribution Grid -->
+  <a href="https://github.com/JackRipper01">
+    <img src="https://ghchart.rshah.org/8A2BE2/JackRipper01" alt="Contribution Graph" />
+  </a>
 </p>
 
 <!-- Optional: Add links to other profiles like LinkedIn -->
