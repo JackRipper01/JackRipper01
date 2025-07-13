@@ -13,7 +13,7 @@
 
 Telegram: https://t.me/Jackripper01
 
-Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.matcom.uh.cu**.
+Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.matcom.uh.cu**(not recommended).
 
 🎓 I hold a Bachelor's degree in Computer Science from the Faculty of Mathematics and Computer Science (MatCom) at the **University of Havana**.
 
@@ -108,7 +108,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 <h3 align="left">🚀 Featured Project: Dynamic World Storytelling with LLM Agents</h3>
 
 <p>
-  For my Computer Science thesis, I designed and implemented a system that uses <strong>multi-agent simulations</strong> to generate dynamic, evolving stories powered by <strong>Large Language Models</strong>(like ChatGPT and Gemini models). This project showcases my ability to integrate complex AI concepts into a functional application.
+  For my Computer Science thesis, I designed and implemented a system that uses <strong>multi-agent simulations</strong> to generate dynamic, evolving stories powered by <strong>Large Language Models</strong>(like ChatGPT[https://chatgpt.com/] and Gemini[https://gemini.google.com/] models). This project showcases my ability to integrate complex AI concepts into a functional application.
 </p>
 
 **Key Achievements & Components:**
