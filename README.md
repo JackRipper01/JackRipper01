@@ -100,7 +100,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 - **Artificial Intelligence & LLMs:**
   - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering`
 - **Software Development:**
-  - `Backend Development (Python/Django, C#)` `Full-Stack Principles` `Object-Oriented Programming (OOP)` `Algorithm Design`
+  - `Backend Development (Python/Django, C#)` `Object-Oriented Programming (OOP)` `Algorithm Design`
 - **Game Development Concepts:**
   - `Game Engines (Unity, Godot)` `Simulation Logic` `State Management`
 
