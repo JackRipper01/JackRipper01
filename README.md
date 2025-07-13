@@ -120,32 +120,6 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </ul>
 <p><em>(This project is pinned below! Feel free to explore the repository for a deeper dive.)</em></p>
 
-<h3 align="left">📊 My GitHub Stats & Activity</h3>
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="Franco's GitHub Stats" />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Contribution Grid -->
-  <a href="https://github.com/JackRipper01">
-    <img src="https://ghchart.rshah.org/8A2BE2/JackRipper01" alt="Contribution Graph" />
-  </a>
-</p>
-
-<!-- Optional: Add links to other profiles like LinkedIn -->
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-</p> -->
-
 <h3 align="left">🚀 My Projects</h3>
 
 <!-- 
@@ -170,3 +144,21 @@ Add your project links and descriptions below this comment.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=HTTP-Protocol-Client-Implementation-from-Scratch&theme=radical)](https://github.com/JackRipper01/HTTP-Protocol-Client-Implementation-from-Scratch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=yugioh_tournament&theme=radical)](https://github.com/JackRipper01/yugioh_tournament)
 
+<h3 align="left">📊 My GitHub Stats & Activity</h3>
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="Franco's GitHub Stats" />
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
+<!-- Optional: Add links to other profiles like LinkedIn -->
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+</p> -->
