@@ -137,13 +137,13 @@ You can generate code like this (replace values):
 
 Add your project links and descriptions below this comment.
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Dynamic-World-Story-using-LLM-Agent-Based-Simulation&theme=radical)](https://github.com/JackRipper01/Dynamic-World-Story-using-LLM-Agent-Based-Simulation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Information-Retrieval-System-2024&theme=radical)](https://github.com/JackRipper01/Information-Retrieval-System-2024)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Decentralizated-FTP-Server&theme=radical)](https://github.com/JackRipper01/Decentralizated-FTP-Server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Compiler-Development&theme=radical)](https://github.com/JackRipper01/Compiler-Development)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=HTTP-Protocol-Client-Implementation-from-Scratch&theme=radical)](https://github.com/JackRipper01/HTTP-Protocol-Client-Implementation-from-Scratch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=yugioh_tournament&theme=radical)](https://github.com/JackRipper01/yugioh_tournament)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=PDF-to-TXT&theme=radical)](https://github.com/JackRipper01/PDF-to-TXT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Dynamic-World-Story-using-LLM-Agent-Based-Simulation&theme=radical&hide_border=true)](https://github.com/JackRipper01/Dynamic-World-Story-using-LLM-Agent-Based-Simulation)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Information-Retrieval-System-2024&theme=radical&hide_border=true)](https://github.com/JackRipper01/Information-Retrieval-System-2024)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Decentralizated-FTP-Server&theme=radical&hide_border=true)](https://github.com/JackRipper01/Decentralizated-FTP-Server)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Compiler-Development&theme=radical&hide_border=true)](https://github.com/JackRipper01/Compiler-Development)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=HTTP-Protocol-Client-Implementation-from-Scratch&theme=radical&hide_border=true)](https://github.com/JackRipper01/HTTP-Protocol-Client-Implementation-from-Scratch)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=yugioh_tournament&theme=radical&hide_border=true)](https://github.com/JackRipper01/yugioh_tournament)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=PDF-to-TXT&theme=radical&hide_border=true)](https://github.com/JackRipper01/PDF-to-TXT)
 
 <h3 align="left">📊 My GitHub Stats & Activity</h3>
 
