@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Franco Hernández Piloto</h1>
-<h3 align="center">A Computer Scientist specializing in AI, LLMs, and Software Development</h3>
+<h3 align="center">Computer Scientist | AI & LLM Engineer | Software Developer</h3>
 
 <!-- Optional: Replace this comment with an <img> tag for your own banner if you like -->
 <!-- Example: <img width="100%" src="YOUR_BANNER_URL_HERE" alt="Banner" /> -->
@@ -9,44 +9,132 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter"/>
 </p>
 
-🎓 I hold a Bachelor's degree in Computer Science from the Faculty of Mathematics and Computing (MatCom) at the **University of Havana**.
-
 📫 You can reach me via:
 
-(Primary) Telegram: https://t.me/Jackripper01
+Telegram: https://t.me/Jackripper01
 
 Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.matcom.uh.cu**.
 
+🎓 I hold a Bachelor's degree in Computer Science from the Faculty of Mathematics and Computing (MatCom) at the **University of Havana**.
 
-🌱 I'm passionate about tackling challenging problems and continuously learning new technologies. My current focus areas include AI (especially Large Language Models), full-stack development, and exploring game development engines.
+🌱 I'm passionate about tackling challenging problems and continuously learning new technologies. My current focus areas include AI (especially Large Language Models), full-stack development, software development and exploring game development engines.
 
 💡 Thanks to my strong foundation in Computer Science, I have a proven ability to **learn quickly and adapt** to new tools and frameworks as needed for any project.
 
 <!-- Optional: Add a fun GIF here if you like! -->
 <!-- Example: <img src="YOUR_GIF_URL_HERE" alt="Coding GIF" width="300px" /> -->
 
-<h3 align="left">🎓 Thesis & Expertise</h3>
+<h3 align="left">💡 Core Expertise</h3>
 
-My Bachelor's thesis (**Trabajo de Diploma** in spanish) explored the innovative use of **Large Language Models (LLMs)** for dynamic storytelling generation through **agent-based simulations**. This project deepened my expertise in:
-*   Artificial Intelligence (AI) & Machine Learning (ML)
-*   **Large Language Models (LLMs)**
-*   Advanced **Prompt Engineering** techniques
-*   Agent-Based Modeling & Simulation
+<p>My academic background and project work have provided me with strong expertise in the following areas:</p>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> </a>
+- **Artificial Intelligence & LLMs:**
+  - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering`
+- **Software Development:**
+  - `Backend Development (Python/Django, C#)` `Full-Stack Principles` `Object-Oriented Programming (OOP)` `Algorithm Design`
+- **Game Development Concepts:**
+  - `Game Engines (Unity, Godot)` `Simulation Logic` `State Management`
+
+<h3 align="left">🛠️ My Tech Stack</h3>
+<p>I am proficient with a variety of technologies and tools for development. Here are some of the key ones I work with:</p>
+
+**Programming Languages**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/csharp" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+     <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+  </tr>
+</table>
+
+**Frameworks, Libraries & Engines**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="48" height="48" alt="Unity" />
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" />
+      </a>
+      <br>Godot
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">🚀 Featured Project: Dynamic World Storytelling with LLM Agents</h3>
+
+<p>
+  For my Computer Science thesis, I designed and implemented a system that uses <strong>multi-agent simulations</strong> to generate dynamic, evolving stories powered by <strong>Large Language Models</strong>(like ChatGPT and Gemini models). This project showcases my ability to integrate complex AI concepts into a functional application.
 </p>
+
+**Key Achievements & Components:**
+<ul>
+  <li>🧠 <strong>Agent Logic:</strong> Developed intelligent agents whose behaviors, decisions, and dialogues are dynamically controlled by an LLM (like GPT).</li>
+  <li>💬 <strong>Advanced Prompt Engineering:</strong> Engineered sophisticated, context-aware prompt chains to ensure coherent and creative narrative generation.</li>
+  <li>🌐 <strong>Simulation Engine:</strong> Built the core simulation that manages the agents, world state, and the progression of time, creating a persistent story world.</li>
+  <li>🔗 <strong>API Integration:</strong> Leveraged the Gemini API to serve as the "brain" for the agents, managing requests and state effectively.</li>
+</ul>
+<p><em>(This project is pinned below! Feel free to explore the repository for a deeper dive.)</em></p>
+
+<h3 align="left">📊 My GitHub Stats</h3>
+
+<!-- Replace 'your-github-username' with your actual GitHub username in the URLs below -->
+<!-- You can customize the appearance of these stats - check out https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- Optional: Add links to other profiles like LinkedIn -->
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+</p> -->
 
 <h3 align="left">🚀 My Projects</h3>
 
@@ -72,20 +160,3 @@ Add your project links and descriptions below this comment.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=HTTP-Protocol-Client-Implementation-from-Scratch&theme=radical)](https://github.com/JackRipper01/HTTP-Protocol-Client-Implementation-from-Scratch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=yugioh_tournament&theme=radical)](https://github.com/JackRipper01/yugioh_tournament)
 
-
-<h3 align="left">📊 My GitHub Stats</h3>
-
-<!-- Replace 'your-github-username' with your actual GitHub username in the URLs below -->
-<!-- You can customize the appearance of these stats - check out https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Optional: Add links to other profiles like LinkedIn -->
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-</p> -->
