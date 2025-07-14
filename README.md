@@ -95,19 +95,27 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 
 <h3 align="left">💡 Core Expertise</h3>
 
-<p>My academic background and project work have provided me with strong expertise in the following areas:</p>
+<p>My academic background, combined with extensive project work, has equipped me with strong expertise across a wide range of technical domains:</p>
 
-- **Artificial Intelligence & LLMs:**
-  - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering`
-- **Software Development:**
-  - `Backend Development (Python/Django, C#)` `Object-Oriented Programming (OOP)` `Algorithm Design`
+- **Artificial Intelligence & Machine Learning (AI/ML):**
+  - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering` `Machine Learning Algorithms`
+- **Software Development & Engineering:**
+  - `Backend Development (Python/Django, C#)` `Object-Oriented Programming (OOP)` `API Design & Development` `Clean Code & Architecture`
+- **Core Computer Science Fundamentals:**
+  - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL/NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
+- **System & Development Operations (SysOps/DevOps):**
+  - `Containerization (Docker)` `Version Control (Git)` `Operating Systems (Linux, Windows)` `Terminal & Command-Line Proficiency` `Network Protocols (HTTP, FTP)`
+- **Data Analysis & Processing:**
+  - `Data Preprocessing` `Data Modeling` `Data Analysis Techniques`
 - **Game Development Concepts:**
-  - `Game Engines (Unity, Godot)` `Simulation Logic` `State Management`
-
+  - `Game Engines (Unity, Godot)` `Simulation Logic` `State Management` `Game Design Patterns`
 
 <h3 align="left">🚀 Featured Project: Dynamic World Storytelling with LLM Agents</h3>
 
 <p>
+  ✨ Featured in an article by my tutor Alejandro Piad Morffis(https://github.com/apiad/), offering a deeper insight into the project's approach to AI storytelling and emergent narratives:
+  <a href="https://blog.apiad.net/p/ai-storytelling-1" target="_blank">Read the article on Substack here!</a>
+  
   For my Computer Science thesis, I designed and implemented a system that uses <strong>multi-agent simulations</strong> to generate dynamic, evolving stories powered by <strong>Large Language Models</strong>(like ChatGPT[https://chatgpt.com/] and Gemini[https://gemini.google.com/] models). This project showcases my ability to integrate complex AI concepts into a functional application.
 </p>
 
@@ -118,7 +126,9 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   <li>🌐 <strong>Simulation Engine:</strong> Built the core simulation that manages the agents, world state, and the progression of time, creating a persistent story world.</li>
   <li>🔗 <strong>API Integration:</strong> Leveraged the Gemini API to serve as the "brain" for the agents, managing requests and state effectively.</li>
 </ul>
-<p><em>(This project is pinned below! Feel free to explore the repository for a deeper dive.)</em></p>
+<p><em>(This project is pinned below! Feel free to explore the repository for a deeper dive.)</em>
+</p>
+
 
 <h3 align="left">🚀 My Projects</h3>
 
