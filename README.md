@@ -144,7 +144,8 @@ Add your project links and descriptions below this comment.
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=HTTP-Protocol-Client-Implementation-from-Scratch&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/HTTP-Protocol-Client-Implementation-from-Scratch)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=yugioh_tournament&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/yugioh_tournament)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=PDF-to-TXT&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/PDF-to-TXT)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=CLI-Turn-Card-Based-Game&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/CLI-Turn-Card-Based-Game)
+  
 <h3 align="left">📊 My GitHub Stats & Activity</h3>
 
 <p align="center">
