@@ -105,6 +105,18 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   </tr>
 </table>
 
+**Databases**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">💡 Core Expertise</h3>
 
 <p>My academic background, combined with extensive project work, has equipped me with strong expertise across a wide range of technical domains:</p>
@@ -114,7 +126,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 - **Software Development & Engineering:**
   - `Backend Development (Python/Django, C#)` `Object-Oriented Programming (OOP)` `API Design & Development` `Clean Code & Architecture`
 - **Core Computer Science Fundamentals:**
-  - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL/NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
+  - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL, PostgreSQL, NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
 - **System & Development Operations (SysOps/DevOps):**
   - `Containerization (Docker)` `Version Control (Git)` `Operating Systems (Linux, Windows)` `Terminal & Command-Line Proficiency` `Network Protocols (HTTP, FTP)`
 - **Data Analysis & Processing:**
