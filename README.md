@@ -69,7 +69,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   </tr>
 </table>
 
-**Frameworks, Libraries & Engines**
+**Backend Frameworks & Libraries**
 <table>
   <tr>
     <td align="center" width="96">
@@ -84,12 +84,28 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
       </a>
       <br>FastAPI
     </td>
+    <!-- If you want to add MockAPI, consider if you have an icon or if it fits this table.
+         It's often a concept or a tool/service rather than a "framework" like Django/FastAPI.
+         If you mean a specific tool for mocking, you could add it to a "Tools" section if you create one,
+         or simply mention API mocking proficiency in your Core Expertise. -->
+  </tr>
+</table>
+
+**Frontend Frameworks & Libraries**
+<table>
+  <tr>
     <td align="center" width="96">
       <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
+  </tr>
+</table>
+
+**Game Engines**
+<table>
+  <tr>
     <td align="center" width="96">
       <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="48" height="48" alt="Unity" />
@@ -124,7 +140,9 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 - **Artificial Intelligence & Machine Learning (AI/ML):**
   - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering` `Machine Learning Algorithms`
 - **Software Development & Engineering:**
-  - `Backend Development (Python/Django, C#)` `Object-Oriented Programming (OOP)` `API Design & Development` `Clean Code & Architecture`
+  - `Backend Development (Python/Django, C#)`
+  - `Frontend Development (Flutter/Dart)` <!-- ADDED THIS LINE -->
+  - `Object-Oriented Programming (OOP)` `API Design & Development` `Clean Code & Architecture`
 - **Core Computer Science Fundamentals:**
   - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL, PostgreSQL, NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
 - **System & Development Operations (SysOps/DevOps):**
@@ -147,17 +165,17 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 <ul>
   <li>🧠 <strong>Agent Logic:</strong> Developed intelligent agents whose behaviors, decisions, and dialogues are dynamically controlled by an LLM (like GPT).</li>
   <li>💬 <strong>Advanced Prompt Engineering:</strong> Engineered sophisticated, context-aware prompt chains to ensure coherent and creative narrative generation.</li>
-  <li>🌐 <strong>Simulation Engine:</strong> Built the core simulation that manages the agents, world state, and the progression of time, creating a persistent story world.</li>
+  <li>🌐 <strong>Simulation Engine: посредством Built the core simulation that manages the agents, world state, and the progression of time, creating a persistent story world.</li>
   <li>🔗 <strong>API Integration:</strong> Leveraged the Gemini API to serve as the "brain" for the agents, managing requests and state effectively.</li>
 </ul>
 <p><em>(This project is pinned below! Feel free to explore the repository for a deeper dive.)</em>
 </p>
 
 
-<h3 align="left">🚀 My Projects</h3>
+<h3 align="left">🚀 Portfolio Highlights</h3>
 
-<!-- 
-Here's where you can list your projects! 
+<!--
+Here's where you can list your projects!
 You can simply list them with links, or use more advanced methods.
 
 **Simple List Example:**
@@ -179,7 +197,7 @@ Add your project links and descriptions below this comment.
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=yugioh_tournament&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/yugioh_tournament)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=PDF-to-TXT&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/PDF-to-TXT)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=CLI-Turn-Card-Based-Game&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/CLI-Turn-Card-Based-Game)
-  
+
 <h3 align="left">📊 My GitHub Stats & Activity</h3>
 
 <p align="center">
