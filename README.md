@@ -60,6 +60,12 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
       </a>
       <br>C
     </td>
+    <td align="center" width="96">
+      <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
   </tr>
 </table>
 
@@ -71,6 +77,12 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
     </td>
     <td align="center" width="96">
       <a href="https://flutter.dev" target="_blank" rel="noreferrer">
