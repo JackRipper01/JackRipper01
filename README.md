@@ -100,6 +100,12 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
       </a>
       <br>Flutter
     </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
+      </a>
+      <br>React
+    </td>
   </tr>
 </table>
 
@@ -141,7 +147,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering` `Machine Learning Algorithms`
 - **Software Development & Engineering:**
   - `Backend Development (Python/Django, C#)`
-  - `Frontend Development (Flutter/Dart)` <!-- ADDED THIS LINE -->
+  - `Frontend Development (Flutter/Dart, React)` <!-- EDITED THIS LINE -->
   - `Object-Oriented Programming (OOP)` `API Design & Development` `Clean Code & Architecture`
 - **Core Computer Science Fundamentals:**
   - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL, PostgreSQL, NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
@@ -165,7 +171,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 <ul>
   <li>🧠 <strong>Agent Logic:</strong> Developed intelligent agents whose behaviors, decisions, and dialogues are dynamically controlled by an LLM (like GPT).</li>
   <li>💬 <strong>Advanced Prompt Engineering:</strong> Engineered sophisticated, context-aware prompt chains to ensure coherent and creative narrative generation.</li>
-  <li>🌐 <strong>Simulation Engine: посредством Built the core simulation that manages the agents, world state, and the progression of time, creating a persistent story world.</li>
+  <li>🌐 <strong>Simulation Engine:</strong> Built the core simulation that manages the agents, world state, and the progression of time, creating a persistent story world.</li>
   <li>🔗 <strong>API Integration:</strong> Leveraged the Gemini API to serve as the "brain" for the agents, managing requests and state effectively.</li>
 </ul>
 <p><em>(This project is pinned below! Feel free to explore the repository for a deeper dive.)</em>
