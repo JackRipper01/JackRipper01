@@ -1,12 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Franco Hernández Piloto</h1>
-<h3 align="center">Computer Scientist | AI & LLM Engineer | Software Developer</h3>
+<h3 align="center">Computer Scientist | AI & LLM Engineer | Full-Stack Developer</h3>
 
 <!-- Optional: Replace this comment with an <img> tag for your own banner if you like -->
 <!-- Example: <img width="100%" src="YOUR_BANNER_URL_HERE" alt="Banner" /> -->
 
 <p align="left">
-  <!-- Replace 'your-github-username' with your actual GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=JackRipper01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter"/>
 </p>
 
 📫 You can reach me via:
@@ -84,10 +83,6 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
       </a>
       <br>FastAPI
     </td>
-    <!-- If you want to add MockAPI, consider if you have an icon or if it fits this table.
-         It's often a concept or a tool/service rather than a "framework" like Django/FastAPI.
-         If you mean a specific tool for mocking, you could add it to a "Tools" section if you create one,
-         or simply mention API mocking proficiency in your Core Expertise. -->
   </tr>
 </table>
 
@@ -136,21 +131,27 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
       </a>
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
+      </a>
+      <br>Supabase
+    </td>
   </tr>
 </table>
 
 <h3 align="left">💡 Core Expertise</h3>
 
-<p>My academic background, combined with extensive project work, has equipped me with strong expertise across a wide range of technical domains:</p>
+<p>My academic background, combined with extensive project work and professional experience, has equipped me with strong expertise across a wide range of technical domains:</p>
 
 - **Artificial Intelligence & Machine Learning (AI/ML):**
   - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering` `Machine Learning Algorithms`
 - **Software Development & Engineering:**
   - `Backend Development (Python/Django, C#)`
-  - `Frontend Development (Flutter/Dart, React)` <!-- EDITED THIS LINE -->
-  - `Object-Oriented Programming (OOP)` `API Design & Development` `Clean Code & Architecture`
+  - `Frontend Development (Flutter/Dart, React)`
+  - `Object-Oriented Programming (OOP)` `API Design & Development` `Clean Code & Architecture` `Chrome Extension Development`
 - **Core Computer Science Fundamentals:**
-  - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL, PostgreSQL, NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
+  - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL, PostgreSQL, Supabase, NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
 - **System & Development Operations (SysOps/DevOps):**
   - `Containerization (Docker)` `Version Control (Git)` `Operating Systems (Linux, Windows)` `Terminal & Command-Line Proficiency` `Network Protocols (HTTP, FTP)`
 - **Data Analysis & Processing:**
@@ -158,13 +159,48 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 - **Game Development Concepts:**
   - `Game Engines (Unity, Godot)` `Simulation Logic` `State Management` `Game Design Patterns`
 
-<h3 align="left">🚀 Featured Project: Dynamic World Storytelling with LLM Agents</h3>
+<h3 align="left">🚀 Featured Projects</h3>
+
+<a name="real-time-ai-sales-assistant"></a>
+<h4 align="left">Real-Time AI Sales Assistant (Product for <a href="https://yula-studio.com" target="_blank">Yula Studio</a>)</h4>
 
 <p>
-  ✨ Featured in an article by my tutor Alejandro Piad Morffis(https://github.com/apiad/), offering a deeper insight into the project's approach to AI storytelling and emergent narratives:
+  Developed a comprehensive full-stack web application and Chrome Extension, acting as a real-time AI coach for sales professionals. This product significantly enhances sales call effectiveness through dynamic AI guidance, milestone tracking, and post-call analytics.
+  <br>
+  <em>(The core project code for this client product is private, but you can explore its features through the visuals below.)</em>
+</p>
+
+**Key Achievements & Components:**
+<ul>
+  <li>🖥️ <strong>Full-Stack Development:</strong> Built with React for a responsive frontend and FastAPI for a high-performance Python backend.</li>
+  <li>✅ <strong>Dynamic Milestone Management:</strong> Implemented full CRUD functionality for user-defined sales milestones, leveraging **Supabase** as the robust and scalable database solution.</li>
+  <li>🤖 <strong>Real-Time AI Coaching Engine:</strong> Engineered an AI system that processes live conversation transcripts to automatically track and complete sales objectives and personalized user milestones.</li>
+  <li>💬 <strong>Context-Aware AI Chatbot:</strong> Integrated a chatbot whose conversational context evolves dynamically with the live call, offering on-the-spot, relevant suggestions and objection handling.</li>
+  <li>🌐 <strong>Chrome Extension Deployment:</strong> Expanded product accessibility by developing and deploying a Chrome Extension, providing seamless integration directly into browser-based sales workflows.</li>
+  <li>📊 <strong>Performance Analytics:</strong> Designed the system for comprehensive post-call data aggregation, enabling in-depth performance analysis and coaching insights.</li>
+</ul>
+
+**Project Visuals:**
+<p align="center">
+  <!-- Image 1 -->
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/screenshot1.png?raw=true" alt="Real-Time AI Sales Assistant: Landing Page" width="600" />
+  <br>
+  <em>Landing Page.</em>
+  <br><br>
+  <!-- Image 2 -->
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/screenshot2.png?raw=true" alt="Real-Time AI Sales Assistant: Chrome Extension in action" width="600" />
+  <br>
+  <em>Chrome Extension version providing in-call AI assistance.</em>
+</p>
+
+<hr> <!-- Separator for next project -->
+
+<h4 align="left">Dynamic World Storytelling with LLM Agents</h4>
+<p>
+  ✨ Featured in an article by my tutor Alejandro Piad Morffis(<a href="https://github.com/apiad/" target="_blank">@apiad</a>), offering a deeper insight into the project's approach to AI storytelling and emergent narratives:
   <a href="https://blog.apiad.net/p/ai-storytelling-1" target="_blank">Read the article on Substack here!</a>
   
-  For my Computer Science thesis, I designed and implemented a system that uses <strong>multi-agent simulations</strong> to generate dynamic, evolving stories powered by <strong>Large Language Models</strong>(like ChatGPT[https://chatgpt.com/] and Gemini[https://gemini.google.com/] models). This project showcases my ability to integrate complex AI concepts into a functional application.
+  For my Computer Science thesis, I designed and implemented a system that uses <strong>multi-agent simulations</strong> to generate dynamic, evolving stories powered by <strong>Large Language Models</strong> (like ChatGPT and Gemini models). This project showcases my ability to integrate complex AI concepts into a functional application.
 </p>
 
 **Key Achievements & Components:**
@@ -177,23 +213,13 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 <p><em>(This project is pinned below! Feel free to explore the repository for a deeper dive.)</em>
 </p>
 
+<hr> <!-- Separator for other projects -->
 
-<h3 align="left">🚀 Portfolio Highlights</h3>
+<h3 align="left">📚 Other Key Projects</h3>
 
 <!--
-Here's where you can list your projects!
-You can simply list them with links, or use more advanced methods.
-
-**Simple List Example:**
-*   **[Project Name 1](https://github.com/your-github-username/project-repo-1):** A brief description of what this project does. Built with [Tech Stack].
-*   **[Project Name 2](https://github.com/your-github-username/project-repo-2):** Another cool project focusing on [Key Feature]. Uses [Language/Framework].
-
-**Using GitHub Readme Stats Project Pins (Recommended for stats):**
-Check out: https://github.com/anuraghazra/github-readme-stats#github-extra-pins
-You can generate code like this (replace values):
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical)](https://github.com/your-github-username/your-repo-name)
-
-Add your project links and descriptions below this comment.
+This section is for your other projects that have their own code repositories.
+You can list them with links, or use the GitHub Readme Stats Project Pins.
 -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Dynamic-World-Story-using-LLM-Agent-Based-Simulation&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/Dynamic-World-Story-using-LLM-Agent-Based-Simulation)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Information-Retrieval-System-2024&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/Information-Retrieval-System-2024)
