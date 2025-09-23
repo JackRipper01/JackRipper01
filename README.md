@@ -183,14 +183,24 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 **Project Visuals:**
 <p align="center">
   <!-- Image 1 -->
-  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/screenshot1.png?raw=true" alt="Real-Time AI Sales Assistant: Landing Page" width="600" />
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/landing-page.png?raw=true" alt="Real-Time AI Sales Assistant: Landing Page part1" width="600" />
   <br>
   <em>Landing Page.</em>
-  <br><br>
-  <!-- Image 2 -->
-  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/screenshot2.png?raw=true" alt="Real-Time AI Sales Assistant: Chrome Extension in action" width="600" />
   <br>
-  <em>Chrome Extension version providing in-call AI assistance.</em>
+  <br>
+  <!-- Image 2 -->
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/landing-page2.png?raw=true" alt="Real-Time AI Sales Assistant: Landing Page part2" width="600" />
+  <br>
+  <!-- Image 3 -->
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/playbook.png?raw=true" alt="Real-Time AI Sales Assistant: AI Auto-Completion" width="600" />
+  <br>
+  <em>AI Auto-Completion.</em>
+  <br>
+  <!-- Image 4 -->
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/chat.png?raw=true" alt="Real-Time AI Sales Assistant: Chat Panel" width="600" />
+  <br>
+  <em>Chat Panel.</em>
+  <br>
 </p>
 
 <hr> <!-- Separator for next project -->
