@@ -185,11 +185,11 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   <!-- Image 1 -->
   <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/landing-page.png?raw=true" alt="Real-Time AI Sales Assistant: Landing Page part1" width="600" />
   <br>
-  <em>Landing Page.</em>
-  <br>
   <br>
   <!-- Image 2 -->
   <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/landing-page2.png?raw=true" alt="Real-Time AI Sales Assistant: Landing Page part2" width="600" />
+  <br>
+  <em>Landing Page.</em>
   <br>
   <!-- Image 3 -->
   <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/playbook.png?raw=true" alt="Real-Time AI Sales Assistant: AI Auto-Completion" width="600" />
