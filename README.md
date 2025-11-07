@@ -104,24 +104,6 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   </tr>
 </table>
 
-**Game Engines**
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="48" height="48" alt="Unity" />
-      </a>
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" />
-      </a>
-      <br>Godot
-    </td>
-  </tr>
-</table>
-
 **Databases**
 <table>
   <tr>
@@ -140,6 +122,42 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   </tr>
 </table>
 
+**Automation & DevOps Tools**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" width="48" height="48" alt="n8n" />
+      </a>
+      <br>n8n
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+**Game Engines**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="48" height="48" alt="Unity" />
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="48" height="48" alt="Godot" />
+      </a>
+      <br>Godot
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">💡 Core Expertise</h3>
 
 <p>My academic background, combined with extensive project work and professional experience, has equipped me with strong expertise across a wide range of technical domains:</p>
@@ -153,7 +171,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 - **Core Computer Science Fundamentals:**
   - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL, PostgreSQL, Supabase, NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
 - **System & Development Operations (SysOps/DevOps):**
-  - `Containerization (Docker)` `Version Control (Git)` `Operating Systems (Linux, Windows)` `Terminal & Command-Line Proficiency` `Network Protocols (HTTP, FTP)`
+  - `Automation (n8n)` `Containerization (Docker)` `Version Control (Git)` `Operating Systems (Linux, Windows)` `Terminal & Command-Line Proficiency` `Network Protocols (HTTP, FTP)`
 - **Data Analysis & Processing:**
   - `Data Preprocessing` `Data Modeling` `Data Analysis Techniques`
 - **Game Development Concepts:**
@@ -200,6 +218,40 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/chat.png?raw=true" alt="Real-Time AI Sales Assistant: Chat Panel" width="600" />
   <br>
   <em>Chat Panel.</em>
+  <br>
+</p>
+
+<hr> <!-- Separator for next project -->
+
+<a name="llm-project-formatter-bot"></a>
+<h4 align="left">LLM Project Formatter Telegram Bot (Automation for <a href="https://yula-studio.com" target="_blank">Yula Studio</a>)</h4>
+
+<p>
+  Developed an n8n automation to solve a key challenge in AI-assisted development: providing an entire project's context to a Large Language Model. This Telegram bot takes any number of user-submitted files and folders, processes the full directory structure, and consolidates everything into a single, formatted text file. The output is specifically crafted for LLMs, with each file's content prefaced by its relative path, streamlining the process of feeding an entire codebase to an AI programming assistant.
+</p>
+
+**Key Achievements & Components:**
+<ul>
+  <li>⚙️ <strong>n8n Automation Workflow:</strong> Built a robust, multi-step workflow in n8n to handle all logic, from receiving files to processing and responding.</li>
+  <li>🤖 <strong>Seamless Telegram Integration:</strong> Created a user-friendly Telegram bot interface that allows users to simply drag and drop their project files and folders.</li>
+  <li>📂 <strong>Recursive Directory Processing:</strong> Engineered the logic to recursively scan through all submitted folders, ensuring every file within the project structure is captured.</li>
+  <li>📄 <strong>LLM-Optimized Formatting:</strong> Implemented a consolidation process that combines all file contents into one text file, automatically prepending each section with its relative directory path for crucial contextual information.</li>
+</ul>
+
+**Project Visuals:**
+<p align="center">
+  
+  <!-- Image 1: n8n Workflow -->
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/all-to-one-teleg-bot/workflow.png?raw=true" alt="LLM Formatter Bot: n8n Workflow Overview" width="600" />
+  <br>
+  <em>The complete n8n workflow orchestrating the automation.</em>
+  <br>
+  <br>
+  
+  <!-- Image 2: Telegram Interaction -->
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/all-to-one-teleg-bot/teleg.png?raw=true" alt="LLM Formatter Bot: Telegram Bot Interaction" width="600" />
+  <br>
+  <em>Demonstration of sending a project folder and separated files to the Telegram bot.</em>
   <br>
 </p>
 
