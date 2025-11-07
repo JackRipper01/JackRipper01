@@ -27,6 +27,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 <p>I am proficient with a variety of technologies and tools for development. Here are some of the key ones I work with:</p>
 
 **Programming Languages**
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -69,6 +70,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </table>
 
 **Backend Frameworks & Libraries**
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -87,6 +89,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </table>
 
 **Frontend Frameworks & Libraries**
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -105,6 +108,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </table>
 
 **Databases**
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -123,11 +127,22 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </table>
 
 **Automation & DevOps Tools**
+
 <table>
   <tr>
     <td align="center" width="96">
       <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" width="48" height="48" alt="n8n" />
+        <!-- 
+          ACTION REQUIRED:
+          1. Create a new folder named 'icons' inside your existing 'assets' folder
+             in your repository (e.g., your-repo/assets/icons/).
+          2. Place your downloaded n8n icon file (e.g., n8n.svg, n8n.png, n8n.jpg)
+             into this newly created 'assets/icons/' folder.
+          3. Ensure the 'src' path below correctly points to your icon.
+             For example, if your icon is named 'n8n.svg', the path should be 'assets/icons/n8n.svg'.
+             If it's 'n8n.png', change it to 'assets/icons/n8n.png', etc.
+        -->
+        <img src="assets/icons/n8n.png" width="48" height="48" alt="n8n" /> 
       </a>
       <br>n8n
     </td>
@@ -141,6 +156,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </table>
 
 **Game Engines**
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -180,6 +196,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 <h3 align="left">🚀 Featured Projects</h3>
 
 <a name="real-time-ai-sales-assistant"></a>
+
 <h4 align="left">Real-Time AI Sales Assistant (Product for <a href="https://yula-studio.com" target="_blank">Yula Studio</a>)</h4>
 
 <p>
@@ -189,6 +206,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </p>
 
 **Key Achievements & Components:**
+
 <ul>
   <li>🖥️ <strong>Full-Stack Development:</strong> Built with React for a responsive frontend and FastAPI for a high-performance Python backend.</li>
   <li>✅ <strong>Dynamic Milestone Management:</strong> Implemented full CRUD functionality for user-defined sales milestones, leveraging **Supabase** as the robust and scalable database solution.</li>
@@ -199,6 +217,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </ul>
 
 **Project Visuals:**
+
 <p align="center">
   <!-- Image 1 -->
   <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/real-time-ai-sales-assistant/landing-page.png?raw=true" alt="Real-Time AI Sales Assistant: Landing Page part1" width="600" />
@@ -224,6 +243,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 <hr> <!-- Separator for next project -->
 
 <a name="AI Code Context Builder - Telegram Bot"></a>
+
 <h4 align="left">AI Code Context Builder - Telegram Bot</h4>
 
 <p>
@@ -231,6 +251,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </p>
 
 **Key Achievements & Components:**
+
 <ul>
   <li>⚙️ <strong>n8n Automation Workflow:</strong> Built a robust, multi-step workflow in n8n to handle all logic, from receiving files to processing and responding.</li>
   <li>📂 <strong>Recursive Directory Processing:</strong> Engineered the logic to recursively scan through all submitted folders, ensuring every file within the project structure is captured.</li>
@@ -238,6 +259,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </ul>
 
 **Project Visuals:**
+
 <p align="center">
   
   <!-- Image 1: n8n Workflow -->
@@ -265,6 +287,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 </p>
 
 **Key Achievements & Components:**
+
 <ul>
   <li>🧠 <strong>Agent Logic:</strong> Developed intelligent agents whose behaviors, decisions, and dialogues are dynamically controlled by an LLM (like GPT).</li>
   <li>💬 <strong>Advanced Prompt Engineering:</strong> Engineered sophisticated, context-aware prompt chains to ensure coherent and creative narrative generation.</li>
@@ -282,6 +305,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 This section is for your other projects that have their own code repositories.
 You can list them with links, or use the GitHub Readme Stats Project Pins.
 -->
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Dynamic-World-Story-using-LLM-Agent-Based-Simulation&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/Dynamic-World-Story-using-LLM-Agent-Based-Simulation)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Information-Retrieval-System-2024&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/Information-Retrieval-System-2024)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Decentralizated-FTP-Server&theme=radical&hide_border=true&v=1)](https://github.com/JackRipper01/Decentralizated-FTP-Server)
