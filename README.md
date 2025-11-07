@@ -233,7 +233,6 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 **Key Achievements & Components:**
 <ul>
   <li>⚙️ <strong>n8n Automation Workflow:</strong> Built a robust, multi-step workflow in n8n to handle all logic, from receiving files to processing and responding.</li>
-  <li>🤖 <strong>Seamless Telegram Integration:</strong> Created a user-friendly Telegram bot interface that allows users to simply drag and drop their project files and folders.</li>
   <li>📂 <strong>Recursive Directory Processing:</strong> Engineered the logic to recursively scan through all submitted folders, ensuring every file within the project structure is captured.</li>
   <li>📄 <strong>LLM-Optimized Formatting:</strong> Implemented a consolidation process that combines all file contents into one text file, automatically prepending each section with its relative directory path for crucial contextual information.</li>
 </ul>
