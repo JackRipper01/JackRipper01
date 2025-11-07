@@ -223,8 +223,8 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 
 <hr> <!-- Separator for next project -->
 
-<a name="llm-project-formatter-bot"></a>
-<h4 align="left">LLM Project Formatter Telegram Bot (Automation for <a href="https://yula-studio.com" target="_blank">Yula Studio</a>)</h4>
+<a name="AI Code Context Builder - Telegram Bot"></a>
+<h4 align="left">AI Code Context Builder - Telegram Bot</h4>
 
 <p>
   Developed an n8n automation to solve a key challenge in AI-assisted development: providing an entire project's context to a Large Language Model. This Telegram bot takes any number of user-submitted files and folders, processes the full directory structure, and consolidates everything into a single, formatted text file. The output is specifically crafted for LLMs, with each file's content prefaced by its relative path, streamlining the process of feeding an entire codebase to an AI programming assistant.
