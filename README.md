@@ -14,7 +14,7 @@ Telegram: https://t.me/Jackripper01
 
 Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.matcom.uh.cu**(not recommended).
 
-🎓 I hold a Bachelor's degree in Computer Science from the Faculty of Mathematics and Computer Science (MatCom) at the **University of Havana**.
+🎓 I hold a Bachelor's degree in Computer Science from the Faculty of Mathematics and Computer Science (MatCom) at the <a href="https://www.uh.cu" target="_blank">**University of Havana**</a>.
 
 🌱 I'm passionate about tackling challenging problems and continuously learning new technologies. My current focus areas include AI (especially Large Language Models), full-stack development, software development and exploring game development engines.
 
