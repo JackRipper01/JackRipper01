@@ -280,8 +280,11 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 
 <h4 align="left">Dynamic World Storytelling with LLM Agents</h4>
 <p>
-  ✨ Featured in an article by my tutor Alejandro Piad Morffis(<a href="https://github.com/apiad/" target="_blank">@apiad</a>), offering a deeper insight into the project's approach to AI storytelling and emergent narratives:
-  <a href="https://blog.apiad.net/p/ai-storytelling-1" target="_blank">Read the article on Substack here!</a>
+  ✨ Featured in The Computist Journal: My project was recently highlighted by Alejandro Piad Morffis (<a href="https://github.com/apiad/" target="_blank">@apiad</a>), a renowned AI researcher and PhD in Computer Science, offering a deeper insight into the project's approach to AI storytelling and emergent narratives:
+  
+  
+  📖<a href="https://blog.apiad.net/p/ai-storytelling-1" target="_blank">Read the article on Substack here!</a>
+
   
   For my Computer Science thesis, I designed and implemented a system that uses <strong>multi-agent simulations</strong> to generate dynamic, evolving stories powered by <strong>Large Language Models</strong> (like ChatGPT and Gemini models). This project showcases my ability to integrate complex AI concepts into a functional application.
 </p>
