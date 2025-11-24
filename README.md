@@ -307,11 +307,11 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 <p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="JackRipper01's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JackRipper01&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true&cache_buster=1700867800" alt="JackRipper01's GitHub Stats" />
   </a>
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JackRipper01&show_icons=true&locale=en&layout=compact&theme=radical&cache_buster=1700867800" alt="Top Languages" />
   </a>
 </p>
 
@@ -319,28 +319,28 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 
 <p align="left">
   <a href="https://github.com/JackRipper01/Dynamic-World-Story-using-LLM-Agent-Based-Simulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Dynamic-World-Story-using-LLM-Agent-Based-Simulation&theme=radical&hide_border=true" alt="Dynamic World Story" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Dynamic-World-Story-using-LLM-Agent-Based-Simulation&theme=radical&hide_border=true&cache_buster=1700867800" alt="Dynamic World Story" />
   </a>
   <a href="https://github.com/JackRipper01/Information-Retrieval-System-2024">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Information-Retrieval-System-2024&theme=radical&hide_border=true" alt="IR System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Information-Retrieval-System-2024&theme=radical&hide_border=true&cache_buster=1700867800" alt="IR System" />
   </a>
   <a href="https://github.com/JackRipper01/Decentralizated-FTP-Server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Decentralizated-FTP-Server&theme=radical&hide_border=true" alt="FTP Server" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Decentralizated-FTP-Server&theme=radical&hide_border=true&cache_buster=1700867800" alt="FTP Server" />
   </a>
   <a href="https://github.com/JackRipper01/Compiler-Development">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Compiler-Development&theme=radical&hide_border=true" alt="Compiler Dev" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=Compiler-Development&theme=radical&hide_border=true&cache_buster=1700867800" alt="Compiler Dev" />
   </a>
   <a href="https://github.com/JackRipper01/HTTP-Protocol-Client-Implementation-from-Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=HTTP-Protocol-Client-Implementation-from-Scratch&theme=radical&hide_border=true" alt="HTTP Client" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=HTTP-Protocol-Client-Implementation-from-Scratch&theme=radical&hide_border=true&cache_buster=1700867800" alt="HTTP Client" />
   </a>
   <a href="https://github.com/JackRipper01/yugioh_tournament">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=yugioh_tournament&theme=radical&hide_border=true" alt="Yugioh" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=yugioh_tournament&theme=radical&hide_border=true&cache_buster=1700867800" alt="Yugioh" />
   </a>
   <a href="https://github.com/JackRipper01/PDF-to-TXT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=PDF-to-TXT&theme=radical&hide_border=true" alt="PDF to TXT" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=PDF-to-TXT&theme=radical&hide_border=true&cache_buster=1700867800" alt="PDF to TXT" />
   </a>
   <a href="https://github.com/JackRipper01/CLI-Turn-Card-Based-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=CLI-Turn-Card-Based-Game&theme=radical&hide_border=true" alt="CLI Game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackRipper01&repo=CLI-Turn-Card-Based-Game&theme=radical&hide_border=true&cache_buster=1700867800" alt="CLI Game" />
   </a>
 </p>
 
