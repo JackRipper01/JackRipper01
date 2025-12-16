@@ -191,7 +191,8 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 - **Data Analysis & Processing:**
   - `Data Preprocessing` `Data Modeling` `Data Analysis Techniques`
 
-<h3 align="left">🚀 Featured Projects</h3>
+<!-- SECTION 1: PROFESSIONAL EXPERIENCE -->
+<h3 align="left">💼 Professional Experience</h3>
 
 <a name="real-time-ai-sales-assistant"></a>
 
@@ -256,6 +257,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   <li>✅ <strong>Code Maintenance:</strong> Wrote maintainable code and collaborated with testers to identify and resolve issues.</li>
 </ul>
 <hr> <!-- Separator for next project -->
+<h3 align="left">🚀 Featured Personal Projects</h3>
 
 <a name="AI Code Context Builder - Telegram Bot"></a>
 
