@@ -181,8 +181,8 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 - **Artificial Intelligence & Machine Learning (AI/ML):**
   - `LLM Integration & API Management` `Agent-Based Systems` `RAG (Retrieval-Augmented Generation)` `Advanced Prompt Engineering` `Machine Learning Algorithms`
 - **Software Development & Engineering:**
-  - `Backend Development (Python/Django, C#)`
-  - `Frontend Development (Flutter/Dart, React)`
+  - `Backend Development (FastApi/Django/Python, .NET/C#)`
+  - `Frontend Development (React/JavaScript, Flutter/Dart)`
   - `Object-Oriented Programming (OOP)` `API Design & Development` `Clean Code & Architecture` `Chrome Extension Development`
 - **Core Computer Science Fundamentals:**
   - `Data Structures & Algorithms (Graphs, Trees, Sorting, Searching)` `Database Design & Management (SQL, PostgreSQL, Supabase, NoSQL Concepts)` `Information Retrieval Theory` `Compiler Design Principles` `Computational Theory`
@@ -190,14 +190,12 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   - `Automation (n8n)` `Containerization (Docker)` `Version Control (Git)` `Operating Systems (Linux, Windows)` `Terminal & Command-Line Proficiency` `Network Protocols (HTTP, FTP)`
 - **Data Analysis & Processing:**
   - `Data Preprocessing` `Data Modeling` `Data Analysis Techniques`
-- **Game Development Concepts:**
-  - `Game Engines (Unity, Godot)` `Simulation Logic` `State Management` `Game Design Patterns`
 
 <h3 align="left">🚀 Featured Projects</h3>
 
 <a name="real-time-ai-sales-assistant"></a>
 
-<h4 align="left">Real-Time AI Sales Assistant (Product for <a href="https://yula-studio.com" target="_blank">Yula Studio</a>)</h4>
+<h4 align="left">Real-Time AI Sales Assistant (Client: <a href="https://yula-studio.com" target="_blank">Yula Studio</a>)</h4>
 
 <p>
   Developed a comprehensive full-stack web application and Chrome Extension, acting as a real-time AI coach for sales professionals. This product significantly enhances sales call effectiveness through dynamic AI guidance, milestone tracking, and post-call analytics.
@@ -240,6 +238,23 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   <br>
 </p>
 
+<hr> <!-- Separator for next project -->
+
+<a name="granazul-backend"></a>
+
+<h4 align="left">Backend Developer (Client: <a href="https://granazul.com" target="_blank">Granazul</a>)</h4>
+
+<p>
+  Worked as a **Django Backend Developer** within a multidisciplinary team of 30+ professionals, including frontend developers, QA engineers, and testers. I contributed to the development and maintenance of the backend logic, collaborating with the team to support the platform's core functionality.
+</p>
+
+**Key Contributions:**
+
+<ul>
+  <li>⚙️ <strong>Backend Development:</strong> Assisted in building and maintaining backend features using **Django**.</li>
+  <li>🤝 <strong>Team Collaboration:</strong> Worked alongside over 30 team members, coordinating with frontend and QA teams to integrate features.</li>
+  <li>✅ <strong>Code Maintenance:</strong> Wrote maintainable code and collaborated with testers to identify and resolve issues.</li>
+</ul>
 <hr> <!-- Separator for next project -->
 
 <a name="AI Code Context Builder - Telegram Bot"></a>
