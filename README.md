@@ -256,6 +256,17 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   <li>🤝 <strong>Team Collaboration:</strong> Worked alongside over 30 team members, coordinating with frontend and QA teams to integrate features.</li>
   <li>✅ <strong>Code Maintenance:</strong> Wrote maintainable code and collaborated with testers to identify and resolve issues.</li>
 </ul>
+
+**Project Visuals:**
+
+<p align="center">
+  <!-- Image 1 -->
+  <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/granazul/granazul-landing-page.png?raw=true" alt="https://www.granazul.com: Landing Page" width="600" />
+  <br>
+  <br>
+</p>
+
+
 <hr> <!-- Separator for next project -->
 <h3 align="left">🚀 Featured Personal Projects</h3>
 
