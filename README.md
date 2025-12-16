@@ -263,6 +263,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   <!-- Image 1 -->
   <img src="https://github.com/JackRipper01/JackRipper01/blob/main/assets/granazul/granazul-landing-page.png?raw=true" alt="https://www.granazul.com: Landing Page" width="600" />
   <br>
+  <em>Landing Page</em>
   <br>
 </p>
 
