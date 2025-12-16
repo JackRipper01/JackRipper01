@@ -20,6 +20,13 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
 
 💡 Thanks to my strong foundation in Computer Science, I have a proven ability to **learn quickly and adapt** to new tools and frameworks as needed for any project.
 
+<!-- LANGUAGES SECTION ADDED HERE -->
+<h3 align="left">🌐 Languages</h3>
+<ul>
+    <li><strong>English:</strong> C2 Proficient — <a href="https://cert.efset.org/en/zbgZRt" target="_blank">EF SET Certificate (73/100)</a></li>
+    <li><strong>Spanish:</strong> Native Proficiency</li>
+</ul>
+
 <!-- Optional: Add a fun GIF here if you like! -->
 <!-- Example: <img src="YOUR_GIF_URL_HERE" alt="Coding GIF" width="300px" /> -->
 
@@ -267,8 +274,7 @@ Email: **francohernandezpiloto@gmail.com** or **franco.hernandez@estudiantes.mat
   <br>
 </p>
 
-
-<hr> <!-- Separator for next project -->
+<!-- SECTION 2: PERSONAL PROJECTS -->
 <h3 align="left">🚀 Featured Personal Projects</h3>
 
 <a name="AI Code Context Builder - Telegram Bot"></a>
